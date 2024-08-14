@@ -4,11 +4,7 @@
 - 📩 sauloelicio554@gmail.com
 - ⚡ Fun fact: um eterno curioso pela tecnologia e atleta de cicilimo de estrada...
       
-<div>            
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username-rafaballerini&show_icons-true&theme-dracula&include_all_commits-tru src="https://github-readme-<img
-<img height="180em" src=".vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count=16&theme-dracula
 
-</div>
 
 <div style="display: inline_block"><br>
 
