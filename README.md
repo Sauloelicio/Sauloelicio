@@ -1,4 +1,3 @@
-<br>
 - 👋 ola!,Eu sou Sauloelicio
 - 📘 Hoje estudando -- Computação em Nuvem ,Banco de dados ,Python ,Desenv. Web em Html5 e Css, Javascript e Php...
 - 📫 How to reach me @sauloelicio_
